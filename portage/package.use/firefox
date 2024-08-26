@@ -1,0 +1,3 @@
+www-client/firefox -pgo
+media-libs/libvpx postproc
+x11-base/xorg-server xvfb
