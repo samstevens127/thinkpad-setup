@@ -6,7 +6,6 @@ app-eselect/eselect-repository
 app-misc/fastfetch
 app-text/mupdf
 dev-lang/rust
-dev-python/matplotlib
 dev-vcs/git
 gnome-extra/nm-applet
 media-fonts/noto-cjk
